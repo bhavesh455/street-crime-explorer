@@ -1,0 +1,27 @@
+=== RUN LOG 2026-10-27T01:17:07Z ===
+Latest 3 months available: ['2026-08', '2026-07', '2026-06']
+  skip (already downloaded): bristol_city_centre_2026-08.json
+  skip (already downloaded): bristol_city_centre_2026-07.json
+  skip (already downloaded): bristol_city_centre_2026-06.json
+  skip (already downloaded): bristol_fishponds_2026-08.json
+  skip (already downloaded): bristol_fishponds_2026-07.json
+  skip (already downloaded): bristol_fishponds_2026-06.json
+  skip (already downloaded): london_bank_2026-08.json
+  skip (already downloaded): london_bank_2026-07.json
+  skip (already downloaded): london_bank_2026-06.json
+  skip (already downloaded): london_shoreditch_2026-08.json
+  skip (already downloaded): london_shoreditch_2026-07.json
+  skip (already downloaded): london_shoreditch_2026-06.json
+Extract complete: 12 files, 22266 raw records.
+Raw records loaded : 22266
+Duplicates dropped   : 0
+Tidy rows written    : 22266  -> /home/hatch/workspace/goals/graduate-data-role-in-the-uk/hidden_files/infolab_project/street-crime-explorer/data/clean/crimes_tidy.csv
+SQLite DB written    : /home/hatch/workspace/goals/graduate-data-role-in-the-uk/hidden_files/infolab_project/street-crime-explorer/data/clean/crime.db (tables: crimes, summary_by_area_month_category)
+Summary rows (SQL)   : 168
+Months covered       : [datetime.date(2026, 6, 1), datetime.date(2026, 7, 1), datetime.date(2026, 8, 1)]
+Areas covered        : ['Bristol City Centre', 'Bristol Fishponds', 'London Bank (Watling Street area)', 'London Shoreditch']
+Dashboard written -> /home/hatch/workspace/goals/graduate-data-role-in-the-uk/hidden_files/infolab_project/street-crime-explorer/output/index.html
+Charts: monthly_totals.png, top_categories.png, area_category_mix.png
+Rows behind dashboard: 22266
+...                                                                      [100%]
+3 passed in 1.06s
