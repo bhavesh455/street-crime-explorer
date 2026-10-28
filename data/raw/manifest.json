@@ -1,0 +1,117 @@
+{
+  "months": [
+    "2026-08",
+    "2026-07",
+    "2026-06"
+  ],
+  "files": [
+    {
+      "location": "bristol_city_centre",
+      "location_name": "Bristol City Centre",
+      "lat": 51.4545,
+      "lng": -2.5879,
+      "month": "2026-08",
+      "file": "bristol_city_centre_2026-08.json",
+      "records": 1873
+    },
+    {
+      "location": "bristol_city_centre",
+      "location_name": "Bristol City Centre",
+      "lat": 51.4545,
+      "lng": -2.5879,
+      "month": "2026-07",
+      "file": "bristol_city_centre_2026-07.json",
+      "records": 1928
+    },
+    {
+      "location": "bristol_city_centre",
+      "location_name": "Bristol City Centre",
+      "lat": 51.4545,
+      "lng": -2.5879,
+      "month": "2026-06",
+      "file": "bristol_city_centre_2026-06.json",
+      "records": 1691
+    },
+    {
+      "location": "bristol_fishponds",
+      "location_name": "Bristol Fishponds",
+      "lat": 51.478,
+      "lng": -2.535,
+      "month": "2026-08",
+      "file": "bristol_fishponds_2026-08.json",
+      "records": 432
+    },
+    {
+      "location": "bristol_fishponds",
+      "location_name": "Bristol Fishponds",
+      "lat": 51.478,
+      "lng": -2.535,
+      "month": "2026-07",
+      "file": "bristol_fishponds_2026-07.json",
+      "records": 469
+    },
+    {
+      "location": "bristol_fishponds",
+      "location_name": "Bristol Fishponds",
+      "lat": 51.478,
+      "lng": -2.535,
+      "month": "2026-06",
+      "file": "bristol_fishponds_2026-06.json",
+      "records": 433
+    },
+    {
+      "location": "london_bank",
+      "location_name": "London Bank (Watling Street area)",
+      "lat": 51.5138,
+      "lng": -0.0886,
+      "month": "2026-08",
+      "file": "london_bank_2026-08.json",
+      "records": 2793
+    },
+    {
+      "location": "london_bank",
+      "location_name": "London Bank (Watling Street area)",
+      "lat": 51.5138,
+      "lng": -0.0886,
+      "month": "2026-07",
+      "file": "london_bank_2026-07.json",
+      "records": 2781
+    },
+    {
+      "location": "london_bank",
+      "location_name": "London Bank (Watling Street area)",
+      "lat": 51.5138,
+      "lng": -0.0886,
+      "month": "2026-06",
+      "file": "london_bank_2026-06.json",
+      "records": 2586
+    },
+    {
+      "location": "london_shoreditch",
+      "location_name": "London Shoreditch",
+      "lat": 51.5265,
+      "lng": -0.0825,
+      "month": "2026-08",
+      "file": "london_shoreditch_2026-08.json",
+      "records": 2484
+    },
+    {
+      "location": "london_shoreditch",
+      "location_name": "London Shoreditch",
+      "lat": 51.5265,
+      "lng": -0.0825,
+      "month": "2026-07",
+      "file": "london_shoreditch_2026-07.json",
+      "records": 2417
+    },
+    {
+      "location": "london_shoreditch",
+      "location_name": "London Shoreditch",
+      "lat": 51.5265,
+      "lng": -0.0825,
+      "month": "2026-06",
+      "file": "london_shoreditch_2026-06.json",
+      "records": 2379
+    }
+  ]
+}
